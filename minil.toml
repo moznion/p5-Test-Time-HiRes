@@ -1,0 +1,6 @@
+name = "Test-Time-HiRes"
+# badges = ["travis"]
+authority="cpan:MOZNION"
+
+module_maker="ModuleBuildTiny"
+
